@@ -1,0 +1,26 @@
+h1{
+     Color:white;
+	 font-size:60px;
+	 font-family: Brusher;
+	 text-transform: uppercase;
+	 text-align: center;
+}
+h2{ 
+     Color:Black;
+	 font-size:30px;
+	 font-family:Jacqueline;
+}
+nav li{
+    display:inline-block;
+    width:8%;
+    padding:10px;
+    background-color:#4BA72B;
+    border:1px solid #4BA72B;
+    text-align:center;
+    color:Black;
+    border-radius: 20px;
+	Font-family: DK Lemon Yellow Sun
+}
+body{
+	background: #C3E97F
+}	

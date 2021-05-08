@@ -1,0 +1,47 @@
+Header {
+     text-shadow: white 20px 20px 30px;
+	 text-align: center;
+	 Color: Black
+}
+h1{
+     Color:white;
+	 font-size:60px;
+	 font-family: Brusher;
+	 text-transform: uppercase;
+	 text-align: center;
+}
+h2{ 
+     Color:Black;
+	 font-size:30px;
+	 font-family:Jacqueline;
+}
+h3{
+     Color:Black;
+	 font-size:15px;
+	 font-family: Jacqueline;
+}
+p {
+     color:black;
+	 font-size:15px;
+	 text-align: center;
+	 font-family: Jacqueline;
+}
+h4{
+	color:orange;
+	font-size:15px;
+	text-align: justificado;
+}
+body{
+	background: #C3E97F
+}	
+nav li{
+    display:inline-block;
+    width:8%;
+    padding:10px;
+    background-color:#4BA72B;
+    border:1px solid #4BA72B;
+    text-align:center;
+    color:Black;
+    border-radius: 20px;
+	Font-family: DK Lemon Yellow Sun
+}
